@@ -1,0 +1,13 @@
+{
+  "name": "Testtoken",
+  "description": "Pavel Durov's Dog Wif Hood",
+  "image": "https://wifhood.dog/img/logo.png",
+  "symbol": "WIF",
+  "websites": [
+    "https://wifhood.dog"
+  ],
+  "social": [
+    "https://t.me/dogwifhood_TON",
+    "https://twitter.com/dogwifhoodTON"
+  ]
+}
